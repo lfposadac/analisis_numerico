@@ -1,4 +1,5 @@
-class NM: 
+class NM:
+#Luis Fernando Posada Cano
     def busquedasIncrementales(self,f,x0,delta,niter):
         html="</br>Busquedas incrementales</br></br>Resultados:</br>"
 
